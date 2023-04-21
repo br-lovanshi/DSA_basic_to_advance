@@ -42,6 +42,7 @@ public class Arrays1 {
         
         int array[] = {-34,-10, -56, -9, -33};
         System.out.println(object.fineMax(array));
+        System.out.println(object  );
         // Arrays.stream(array).forEach(System.out::println);
         //returns string representation of the specified array  
         // System.out.println(Arrays.toString(array));  
